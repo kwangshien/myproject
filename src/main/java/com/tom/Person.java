@@ -3,7 +3,7 @@ package com.tom;
 public class Person {
 
     public void hello(){
-        System.out.println("Hello ~~");
+        System.out.println("Hello ~~Java!!");
     }
 
 }
